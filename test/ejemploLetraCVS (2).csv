@@ -1,0 +1,16 @@
+3;;;
+Ana Garcia;18 de Julio 1234;99123123;
+Luis Ramirez;Cuareim 1111;987654321;
+Pedro Sanchez;Mercedes 990;99112233;
+4;;;
+Empanada;Fabricada artesanalmente;1;
+Postre individual;Para una persona;3;
+Bebida;Botella o jarra;3;
+Vegano;Con ingredientes veganos;2;
+6;;;
+Empanada de queso;100;Empanada;Vegano
+Empanada de carne;120;Empanada;
+Empanada dulce;110;Empanada;Postre individual
+Jugo de naranja;150;Bebida;
+Empanada de chocolate;110;Postre individual;Empanada
+Empanada Vegetal;120;Empanada;Vegano
