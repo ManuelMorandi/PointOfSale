@@ -1,2 +1,8 @@
-# PointOfSale
-Point of Sale en Java (2021)
+# Point Of Sale
+
+Proyecto Java
+<br>
+Manuel Morandi - Alfredo Fernández
+<br>
+Programación 2 (2021)
+
